@@ -21,7 +21,7 @@ I don't play basketball but keep score of your games using this basketball app
 
 
 ### Links
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://zingy-gecko-9de069.netlify.app)
 
 ## My process
 
